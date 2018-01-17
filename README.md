@@ -1,1 +1,1 @@
-# Python_Lab
+# Python Course MSIS-2802
